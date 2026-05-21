@@ -1,0 +1,325 @@
+2026-05-20 15:07:17,106 INFO hermes_cli.plugins: Plugin 'openai' registered image_gen provider: openai
+2026-05-20 15:07:17,114 INFO hermes_cli.plugins: Plugin 'openai-codex' registered image_gen provider: openai-codex
+2026-05-20 15:07:17,170 INFO hermes_cli.plugins: Plugin 'xai' registered image_gen provider: xai
+2026-05-20 15:07:20,537 INFO hermes_cli.plugins: Plugin discovery complete: 10 found, 7 enabled
+2026-05-20 15:07:31,637 INFO run_agent: Loaded environment variables from /home/vblinux/.hermes/profiles/dt_orchestrator/.env
+2026-05-20 15:07:34,128 INFO agent.auxiliary_client: Vision auto-detect: using main provider openrouter (openrouter/owl-alpha)
+2026-05-20 15:07:57,211 INFO agent.auxiliary_client: Vision auto-detect: using main provider openrouter (openrouter/owl-alpha)
+2026-05-20 15:07:57,230 INFO agent.auxiliary_client: Vision auto-detect: using main provider openrouter (openrouter/owl-alpha)
+2026-05-20 15:07:58,034 INFO agent.auxiliary_client: Vision auto-detect: using main provider openrouter (openrouter/owl-alpha)
+2026-05-20 15:07:58,053 INFO agent.auxiliary_client: Vision auto-detect: using main provider openrouter (openrouter/owl-alpha)
+2026-05-20 15:07:58,150 INFO tools.tirith_security: tirith not found — downloading latest release for x86_64-unknown-linux-gnu...
+2026-05-20 15:08:11,278 INFO agent.auxiliary_client: Auxiliary auto-detect: using main provider openrouter (openrouter/owl-alpha)
+2026-05-20 15:08:11,349 WARNING [20260520_150733_37b0d6] agent.prompt_builder: Context file SOUL.md blocked: invisible unicode U+FEFF
+2026-05-20 15:11:15,780 INFO agent.auxiliary_client: Auxiliary auto-detect: using main provider openrouter (openrouter/owl-alpha)
+2026-05-20 15:11:15,781 INFO agent.auxiliary_client: Auxiliary title_generation: using auto (openrouter/owl-alpha)
+2026-05-20 15:28:10,100 INFO hermes_cli.plugins: Plugin 'openai' registered image_gen provider: openai
+2026-05-20 15:28:10,104 INFO hermes_cli.plugins: Plugin 'openai-codex' registered image_gen provider: openai-codex
+2026-05-20 15:28:10,111 INFO hermes_cli.plugins: Plugin 'xai' registered image_gen provider: xai
+2026-05-20 15:28:11,989 INFO hermes_cli.plugins: Plugin discovery complete: 10 found, 7 enabled
+2026-05-20 15:28:18,902 INFO run_agent: Loaded environment variables from /home/vblinux/.hermes/profiles/dt_orchestrator/.env
+2026-05-20 15:28:20,698 INFO agent.auxiliary_client: Vision auto-detect: using main provider openrouter (openrouter/owl-alpha)
+2026-05-20 15:28:28,774 INFO agent.auxiliary_client: Vision auto-detect: using main provider openrouter (openrouter/owl-alpha)
+2026-05-20 15:28:28,815 INFO agent.auxiliary_client: Vision auto-detect: using main provider openrouter (openrouter/owl-alpha)
+2026-05-20 15:28:30,561 INFO agent.auxiliary_client: Vision auto-detect: using main provider openrouter (openrouter/owl-alpha)
+2026-05-20 15:28:30,605 INFO agent.auxiliary_client: Vision auto-detect: using main provider openrouter (openrouter/owl-alpha)
+2026-05-20 15:28:44,409 INFO agent.auxiliary_client: Auxiliary auto-detect: using main provider openrouter (openrouter/owl-alpha)
+2026-05-20 15:28:44,443 WARNING [20260520_152820_ab3880] agent.prompt_builder: Context file SOUL.md blocked: invisible unicode U+FEFF
+2026-05-20 15:47:43,240 INFO agent.auxiliary_client: Auxiliary auto-detect: using main provider openrouter (openrouter/owl-alpha)
+2026-05-20 15:47:43,255 WARNING [20260520_154743_71c748] agent.prompt_builder: Context file SOUL.md blocked: invisible unicode U+FEFF
+2026-05-20 15:47:43,563 INFO agent.auxiliary_client: Auxiliary auto-detect: using main provider openrouter (openrouter/owl-alpha)
+2026-05-20 15:47:43,563 INFO agent.auxiliary_client: Auxiliary title_generation: using auto (openrouter/owl-alpha)
+2026-05-20 16:06:43,373 ERROR [20260520_152820_ab3880] tools.checkpoint_manager: Git command skipped: git add -A (working directory not found: /home/vblinux/.hermes/profiles/dt_orchestrator/reports)
+2026-05-20 16:13:46,602 INFO agent.auxiliary_client: Auxiliary auto-detect: using main provider openrouter (openrouter/owl-alpha)
+2026-05-20 16:13:46,651 WARNING [20260520_161346_ab2fd7] agent.prompt_builder: Context file SOUL.md blocked: invisible unicode U+FEFF
+2026-05-20 16:18:48,186 INFO [20260520_152820_ab3880] agent.auxiliary_client: Auxiliary auto-detect: using main provider openrouter (openrouter/owl-alpha)
+2026-05-20 16:28:20,309 INFO [20260520_152820_ab3880] agent.auxiliary_client: Auxiliary auto-detect: using main provider openrouter (openrouter/owl-alpha)
+2026-05-20 16:49:03,299 INFO agent.auxiliary_client: Auxiliary auto-detect: using main provider openrouter (openrouter/owl-alpha)
+2026-05-20 16:49:03,303 WARNING [20260520_164902_d507ab] agent.prompt_builder: Context file SOUL.md blocked: invisible unicode U+FEFF
+2026-05-20 16:58:33,670 INFO [20260520_152820_ab3880] agent.auxiliary_client: Auxiliary auto-detect: using main provider openrouter (openrouter/owl-alpha)
+2026-05-21 09:01:17,377 INFO hermes_cli.plugins: Plugin 'openai' registered image_gen provider: openai
+2026-05-21 09:01:17,379 INFO hermes_cli.plugins: Plugin 'openai-codex' registered image_gen provider: openai-codex
+2026-05-21 09:01:17,380 INFO hermes_cli.plugins: Plugin 'xai' registered image_gen provider: xai
+2026-05-21 09:01:17,656 INFO hermes_cli.plugins: Plugin discovery complete: 10 found, 7 enabled
+2026-05-21 09:01:20,228 INFO run_agent: Loaded environment variables from /home/vblinux/.hermes/profiles/dt_orchestrator/.env
+2026-05-21 09:01:21,596 INFO agent.auxiliary_client: Vision auto-detect: using main provider openrouter (z-ai/glm-5.1)
+2026-05-21 09:01:33,630 INFO agent.auxiliary_client: Vision auto-detect: using main provider openrouter (z-ai/glm-5.1)
+2026-05-21 09:01:33,644 INFO agent.auxiliary_client: Vision auto-detect: using main provider openrouter (z-ai/glm-5.1)
+2026-05-21 09:01:34,173 INFO agent.auxiliary_client: Vision auto-detect: using main provider openrouter (z-ai/glm-5.1)
+2026-05-21 09:01:34,200 INFO agent.auxiliary_client: Vision auto-detect: using main provider openrouter (z-ai/glm-5.1)
+2026-05-21 09:02:57,546 INFO agent.auxiliary_client: Auxiliary auto-detect: using main provider openrouter (z-ai/glm-5.1)
+2026-05-21 09:02:57,585 WARNING [20260521_090121_ac4f97] agent.prompt_builder: Context file SOUL.md blocked: invisible unicode U+FEFF
+2026-05-21 09:03:36,542 INFO [20260521_090121_ac4f97] agent.auxiliary_client: Auxiliary auto-detect: using main provider openrouter (z-ai/glm-5.1)
+2026-05-21 09:05:28,615 INFO [20260521_090121_ac4f97] agent.auxiliary_client: Auxiliary auto-detect: using main provider openrouter (z-ai/glm-5.1)
+2026-05-21 09:09:45,546 ERROR [20260521_090121_ac4f97] tools.checkpoint_manager: Git command skipped: git add -A (working directory not found: /home/vblinux/.hermes/profiles/dt_orchestrator/skills/twse-free-daily/reports)
+2026-05-21 09:10:25,136 INFO agent.auxiliary_client: Auxiliary auto-detect: using main provider openrouter (z-ai/glm-5.1)
+2026-05-21 09:10:25,136 INFO agent.auxiliary_client: Auxiliary title_generation: using auto (z-ai/glm-5.1)
+2026-05-21 09:17:40,917 INFO hermes_cli.plugins: Plugin 'openai' registered image_gen provider: openai
+2026-05-21 09:17:40,919 INFO hermes_cli.plugins: Plugin 'openai-codex' registered image_gen provider: openai-codex
+2026-05-21 09:17:40,926 INFO hermes_cli.plugins: Plugin 'xai' registered image_gen provider: xai
+2026-05-21 09:17:41,518 INFO hermes_cli.plugins: Plugin discovery complete: 10 found, 7 enabled
+2026-05-21 09:17:44,259 INFO run_agent: Loaded environment variables from /home/vblinux/.hermes/profiles/dt_orchestrator/.env
+2026-05-21 09:17:45,328 INFO agent.auxiliary_client: Vision auto-detect: using main provider openrouter (z-ai/glm-5.1)
+2026-05-21 09:18:00,075 INFO agent.auxiliary_client: Vision auto-detect: using main provider openrouter (z-ai/glm-5.1)
+2026-05-21 09:18:00,092 INFO agent.auxiliary_client: Vision auto-detect: using main provider openrouter (z-ai/glm-5.1)
+2026-05-21 09:18:01,007 INFO agent.auxiliary_client: Vision auto-detect: using main provider openrouter (z-ai/glm-5.1)
+2026-05-21 09:18:01,026 INFO agent.auxiliary_client: Vision auto-detect: using main provider openrouter (z-ai/glm-5.1)
+2026-05-21 09:18:10,528 INFO agent.auxiliary_client: Auxiliary auto-detect: using main provider openrouter (z-ai/glm-5.1)
+2026-05-21 09:18:10,565 WARNING [20260521_091745_5e05e4] agent.prompt_builder: Context file SOUL.md blocked: invisible unicode U+FEFF
+2026-05-21 09:18:35,689 INFO [20260521_091745_5e05e4] agent.auxiliary_client: Auxiliary auto-detect: using main provider openrouter (z-ai/glm-5.1)
+2026-05-21 09:20:07,722 INFO [20260521_091745_5e05e4] agent.auxiliary_client: Auxiliary auto-detect: using main provider openrouter (z-ai/glm-5.1)
+2026-05-21 09:21:21,809 INFO [20260521_091745_5e05e4] agent.auxiliary_client: Auxiliary auto-detect: using main provider openrouter (z-ai/glm-5.1)
+2026-05-21 09:40:04,908 INFO agent.auxiliary_client: Auxiliary auto-detect: using main provider openrouter (z-ai/glm-5.1)
+2026-05-21 09:40:04,910 WARNING [20260521_094004_65f08c] agent.prompt_builder: Context file SOUL.md blocked: invisible unicode U+FEFF
+2026-05-21 09:40:05,089 INFO agent.auxiliary_client: Auxiliary auto-detect: using main provider openrouter (z-ai/glm-5.1)
+2026-05-21 09:40:05,089 INFO agent.auxiliary_client: Auxiliary title_generation: using auto (z-ai/glm-5.1)
+2026-05-21 09:45:11,127 INFO agent.auxiliary_client: Auxiliary title_generation: using auto (z-ai/glm-5.1)
+2026-05-21 09:55:21,780 INFO [20260521_091745_5e05e4] agent.auxiliary_client: Auxiliary auto-detect: using main provider openrouter (z-ai/glm-5.1)
+2026-05-21 09:57:19,113 INFO [20260521_091745_5e05e4] agent.auxiliary_client: Auxiliary auto-detect: using main provider openrouter (z-ai/glm-5.1)
+2026-05-21 10:18:48,136 INFO hermes_cli.plugins: Plugin 'openai' registered image_gen provider: openai
+2026-05-21 10:18:48,136 INFO hermes_cli.plugins: Plugin 'openai-codex' registered image_gen provider: openai-codex
+2026-05-21 10:18:48,137 INFO hermes_cli.plugins: Plugin 'xai' registered image_gen provider: xai
+2026-05-21 10:18:48,389 INFO hermes_cli.plugins: Plugin discovery complete: 10 found, 7 enabled
+2026-05-21 10:18:50,055 INFO run_agent: Loaded environment variables from /home/vblinux/.hermes/profiles/dt_orchestrator/.env
+2026-05-21 10:18:50,759 INFO agent.auxiliary_client: Vision auto-detect: using main provider openrouter (openrouter/owl-alpha)
+2026-05-21 10:18:52,967 INFO agent.auxiliary_client: Vision auto-detect: using main provider openrouter (openrouter/owl-alpha)
+2026-05-21 10:18:52,994 INFO agent.auxiliary_client: Vision auto-detect: using main provider openrouter (openrouter/owl-alpha)
+2026-05-21 10:18:53,912 INFO agent.auxiliary_client: Vision auto-detect: using main provider openrouter (openrouter/owl-alpha)
+2026-05-21 10:18:53,931 INFO agent.auxiliary_client: Vision auto-detect: using main provider openrouter (openrouter/owl-alpha)
+2026-05-21 10:19:09,324 INFO agent.auxiliary_client: Auxiliary auto-detect: using main provider openrouter (openrouter/owl-alpha)
+2026-05-21 10:19:09,357 WARNING [20260521_101850_6ac2f9] agent.prompt_builder: Context file SOUL.md blocked: invisible unicode U+FEFF
+2026-05-21 10:20:21,333 INFO [20260521_101850_6ac2f9] agent.auxiliary_client: Auxiliary auto-detect: using main provider openrouter (openrouter/owl-alpha)
+2026-05-21 10:24:08,852 INFO [20260521_101850_6ac2f9] agent.auxiliary_client: Auxiliary auto-detect: using main provider openrouter (openrouter/owl-alpha)
+2026-05-21 10:30:29,375 ERROR [20260521_102408_8b39da] root: [subagent-0] API call failed after 3 retries. Provider returned error | provider=openrouter model=openrouter/owl-alpha msgs=5 tokens=~1,274
+2026-05-21 10:33:11,528 INFO [20260521_101850_6ac2f9] agent.auxiliary_client: Auxiliary auto-detect: using main provider openrouter (openrouter/owl-alpha)
+2026-05-21 10:42:50,974 INFO agent.auxiliary_client: Auxiliary auto-detect: using main provider openrouter (openrouter/owl-alpha)
+2026-05-21 10:42:50,975 INFO agent.auxiliary_client: Auxiliary title_generation: using auto (openrouter/owl-alpha)
+2026-05-21 10:42:51,003 INFO agent.auxiliary_client: Auxiliary auto-detect: using main provider openrouter (openrouter/owl-alpha)
+2026-05-21 10:42:51,012 WARNING [20260521_104250_52973c] agent.prompt_builder: Context file SOUL.md blocked: invisible unicode U+FEFF
+2026-05-21 11:12:00,503 INFO hermes_cli.plugins: Plugin 'openai' registered image_gen provider: openai
+2026-05-21 11:12:00,503 INFO hermes_cli.plugins: Plugin 'openai-codex' registered image_gen provider: openai-codex
+2026-05-21 11:12:00,504 INFO hermes_cli.plugins: Plugin 'xai' registered image_gen provider: xai
+2026-05-21 11:12:00,725 INFO hermes_cli.plugins: Plugin discovery complete: 10 found, 7 enabled
+2026-05-21 11:12:01,784 INFO run_agent: Loaded environment variables from /home/vblinux/.hermes/profiles/dt_orchestrator/.env
+2026-05-21 11:12:02,725 INFO agent.auxiliary_client: Vision auto-detect: using main provider openrouter (nvidia/nemotron-3-super-120b-a12b:free)
+2026-05-21 11:12:05,912 INFO agent.auxiliary_client: Vision auto-detect: using main provider openrouter (nvidia/nemotron-3-super-120b-a12b:free)
+2026-05-21 11:12:05,930 INFO agent.auxiliary_client: Vision auto-detect: using main provider openrouter (nvidia/nemotron-3-super-120b-a12b:free)
+2026-05-21 11:12:06,862 INFO agent.auxiliary_client: Vision auto-detect: using main provider openrouter (nvidia/nemotron-3-super-120b-a12b:free)
+2026-05-21 11:12:06,883 INFO agent.auxiliary_client: Vision auto-detect: using main provider openrouter (nvidia/nemotron-3-super-120b-a12b:free)
+2026-05-21 11:12:23,482 INFO agent.auxiliary_client: Auxiliary auto-detect: using main provider openrouter (nvidia/nemotron-3-super-120b-a12b:free)
+2026-05-21 11:12:23,513 WARNING [20260521_111202_573d86] agent.prompt_builder: Context file SOUL.md blocked: invisible unicode U+FEFF
+2026-05-21 11:12:51,262 INFO [20260521_111202_573d86] agent.auxiliary_client: Auxiliary auto-detect: using main provider openrouter (nvidia/nemotron-3-super-120b-a12b:free)
+2026-05-21 11:17:18,219 INFO [20260521_111202_573d86] agent.auxiliary_client: Auxiliary auto-detect: using main provider openrouter (nvidia/nemotron-3-super-120b-a12b:free)
+2026-05-21 11:21:37,222 INFO [20260521_111202_573d86] agent.auxiliary_client: Auxiliary auto-detect: using main provider openrouter (nvidia/nemotron-3-super-120b-a12b:free)
+2026-05-21 11:23:25,819 INFO [20260521_111202_573d86] agent.auxiliary_client: Auxiliary auto-detect: using main provider openrouter (nvidia/nemotron-3-super-120b-a12b:free)
+2026-05-21 11:38:27,525 INFO agent.auxiliary_client: Auxiliary auto-detect: using main provider openrouter (nvidia/nemotron-3-super-120b-a12b:free)
+2026-05-21 11:38:27,525 INFO agent.auxiliary_client: Auxiliary title_generation: using auto (nvidia/nemotron-3-super-120b-a12b:free)
+2026-05-21 11:46:14,840 INFO hermes_cli.plugins: Plugin 'openai' registered image_gen provider: openai
+2026-05-21 11:46:14,840 INFO hermes_cli.plugins: Plugin 'openai-codex' registered image_gen provider: openai-codex
+2026-05-21 11:46:14,841 INFO hermes_cli.plugins: Plugin 'xai' registered image_gen provider: xai
+2026-05-21 11:46:15,084 INFO hermes_cli.plugins: Plugin discovery complete: 10 found, 7 enabled
+2026-05-21 11:46:16,211 INFO run_agent: Loaded environment variables from /home/vblinux/.hermes/profiles/dt_orchestrator/.env
+2026-05-21 11:46:17,191 INFO agent.auxiliary_client: Vision auto-detect: using main provider openrouter (qwen/qwen3.6-35b-a3b)
+2026-05-21 11:46:21,436 INFO agent.auxiliary_client: Vision auto-detect: using main provider openrouter (qwen/qwen3.6-35b-a3b)
+2026-05-21 11:46:21,453 INFO agent.auxiliary_client: Vision auto-detect: using main provider openrouter (qwen/qwen3.6-35b-a3b)
+2026-05-21 11:46:22,035 INFO agent.auxiliary_client: Vision auto-detect: using main provider openrouter (qwen/qwen3.6-35b-a3b)
+2026-05-21 11:46:22,050 INFO agent.auxiliary_client: Vision auto-detect: using main provider openrouter (qwen/qwen3.6-35b-a3b)
+2026-05-21 11:46:34,434 INFO agent.auxiliary_client: Auxiliary auto-detect: using main provider openrouter (qwen/qwen3.6-35b-a3b)
+2026-05-21 11:46:34,482 WARNING [20260521_114617_4d6ed9] agent.prompt_builder: Context file SOUL.md blocked: invisible unicode U+FEFF
+2026-05-21 11:46:46,887 INFO [20260521_114617_4d6ed9] agent.auxiliary_client: Auxiliary auto-detect: using main provider openrouter (qwen/qwen3.6-35b-a3b)
+2026-05-21 11:47:26,104 INFO [20260521_114617_4d6ed9] agent.auxiliary_client: Auxiliary auto-detect: using main provider openrouter (qwen/qwen3.6-35b-a3b)
+2026-05-21 11:48:50,951 INFO [20260521_114617_4d6ed9] agent.auxiliary_client: Auxiliary auto-detect: using main provider openrouter (qwen/qwen3.6-35b-a3b)
+2026-05-21 11:50:20,281 INFO agent.auxiliary_client: Auxiliary auto-detect: using main provider openrouter (qwen/qwen3.6-35b-a3b)
+2026-05-21 11:50:20,281 INFO agent.auxiliary_client: Auxiliary title_generation: using auto (qwen/qwen3.6-35b-a3b)
+2026-05-21 15:47:23,306 INFO hermes_cli.plugins: Plugin 'openai' registered image_gen provider: openai
+2026-05-21 15:47:23,306 INFO hermes_cli.plugins: Plugin 'openai-codex' registered image_gen provider: openai-codex
+2026-05-21 15:47:23,307 INFO hermes_cli.plugins: Plugin 'xai' registered image_gen provider: xai
+2026-05-21 15:47:23,516 INFO hermes_cli.plugins: Plugin discovery complete: 10 found, 7 enabled
+2026-05-21 15:47:24,522 INFO run_agent: Loaded environment variables from /home/vblinux/.hermes/profiles/dt_orchestrator/.env
+2026-05-21 15:47:25,261 INFO agent.auxiliary_client: Vision auto-detect: using main provider openrouter (openrouter/owl-alpha)
+2026-05-21 15:47:33,652 INFO agent.auxiliary_client: Vision auto-detect: using main provider openrouter (openrouter/owl-alpha)
+2026-05-21 15:47:33,666 INFO agent.auxiliary_client: Vision auto-detect: using main provider openrouter (openrouter/owl-alpha)
+2026-05-21 15:47:34,188 INFO agent.auxiliary_client: Vision auto-detect: using main provider openrouter (openrouter/owl-alpha)
+2026-05-21 15:47:34,199 INFO agent.auxiliary_client: Vision auto-detect: using main provider openrouter (openrouter/owl-alpha)
+2026-05-21 15:47:50,595 INFO agent.auxiliary_client: Auxiliary auto-detect: using main provider openrouter (openrouter/owl-alpha)
+2026-05-21 15:47:50,640 WARNING [20260521_154725_1f5da7] agent.prompt_builder: Context file SOUL.md blocked: invisible unicode U+FEFF
+2026-05-21 15:47:57,687 INFO [20260521_154725_1f5da7] agent.credential_pool: credential pool: marking OPENROUTER_API_KEY exhausted (status=429), rotating
+2026-05-21 15:47:57,711 INFO [20260521_154725_1f5da7] agent.credential_pool: credential pool: no available entries (all exhausted or empty)
+2026-05-21 15:48:04,099 INFO [20260521_154725_1f5da7] agent.credential_pool: credential pool: no available entries (all exhausted or empty)
+2026-05-21 15:48:04,100 ERROR [20260521_154725_1f5da7] root: API call failed after 3 retries. HTTP 429: Provider returned error | provider=openrouter model=openrouter/owl-alpha msgs=2 tokens=~3,762
+2026-05-21 15:48:40,219 INFO agent.credential_pool: credential pool: no available entries (all exhausted or empty)
+2026-05-21 15:49:03,723 INFO [20260521_154725_1f5da7] agent.credential_pool: credential pool: no available entries (all exhausted or empty)
+2026-05-21 15:49:12,651 INFO [20260521_154725_1f5da7] agent.credential_pool: credential pool: no available entries (all exhausted or empty)
+2026-05-21 15:49:12,653 ERROR [20260521_154725_1f5da7] root: API call failed after 3 retries. HTTP 429: Provider returned error | provider=openrouter model=openrouter/owl-alpha msgs=4 tokens=~5,799
+2026-05-21 15:55:15,057 INFO hermes_cli.plugins: Plugin 'openai' registered image_gen provider: openai
+2026-05-21 15:55:15,058 INFO hermes_cli.plugins: Plugin 'openai-codex' registered image_gen provider: openai-codex
+2026-05-21 15:55:15,058 INFO hermes_cli.plugins: Plugin 'xai' registered image_gen provider: xai
+2026-05-21 15:55:15,252 INFO hermes_cli.plugins: Plugin discovery complete: 10 found, 7 enabled
+2026-05-21 15:55:16,004 INFO run_agent: Loaded environment variables from /home/vblinux/.hermes/profiles/dt_orchestrator/.env
+2026-05-21 15:55:16,607 INFO agent.credential_pool: credential pool: no available entries (all exhausted or empty)
+2026-05-21 15:55:16,608 INFO agent.credential_pool: credential pool: no available entries (all exhausted or empty)
+2026-05-21 15:55:16,609 WARNING agent.auxiliary_client: resolve_provider_client: openrouter requested but OpenRouter credential pool has no usable entries (credentials may be exhausted)
+2026-05-21 15:55:18,360 INFO agent.credential_pool: credential pool: no available entries (all exhausted or empty)
+2026-05-21 15:55:18,362 INFO agent.credential_pool: credential pool: no available entries (all exhausted or empty)
+2026-05-21 15:55:18,362 WARNING agent.auxiliary_client: resolve_provider_client: openrouter requested but OpenRouter credential pool has no usable entries (credentials may be exhausted)
+2026-05-21 15:55:18,367 INFO agent.credential_pool: credential pool: no available entries (all exhausted or empty)
+2026-05-21 15:55:18,369 INFO agent.credential_pool: credential pool: no available entries (all exhausted or empty)
+2026-05-21 15:55:18,369 WARNING agent.auxiliary_client: resolve_provider_client: openrouter requested but OpenRouter credential pool has no usable entries (credentials may be exhausted)
+2026-05-21 15:55:18,790 INFO agent.credential_pool: credential pool: no available entries (all exhausted or empty)
+2026-05-21 15:55:18,792 INFO agent.credential_pool: credential pool: no available entries (all exhausted or empty)
+2026-05-21 15:55:18,792 WARNING agent.auxiliary_client: resolve_provider_client: openrouter requested but OpenRouter credential pool has no usable entries (credentials may be exhausted)
+2026-05-21 15:55:18,797 INFO agent.credential_pool: credential pool: no available entries (all exhausted or empty)
+2026-05-21 15:55:18,799 INFO agent.credential_pool: credential pool: no available entries (all exhausted or empty)
+2026-05-21 15:55:18,799 WARNING agent.auxiliary_client: resolve_provider_client: openrouter requested but OpenRouter credential pool has no usable entries (credentials may be exhausted)
+2026-05-21 15:55:23,868 INFO agent.credential_pool: credential pool: no available entries (all exhausted or empty)
+2026-05-21 15:55:23,894 INFO agent.credential_pool: credential pool: no available entries (all exhausted or empty)
+2026-05-21 15:55:24,740 INFO agent.credential_pool: credential pool: no available entries (all exhausted or empty)
+2026-05-21 15:55:24,742 INFO agent.credential_pool: credential pool: no available entries (all exhausted or empty)
+2026-05-21 15:55:24,742 WARNING agent.auxiliary_client: resolve_provider_client: openrouter requested but OpenRouter credential pool has no usable entries (credentials may be exhausted)
+2026-05-21 15:55:24,744 INFO agent.credential_pool: credential pool: no available entries (all exhausted or empty)
+2026-05-21 15:55:24,885 WARNING agent.auxiliary_client: Auxiliary auto-detect: no provider available (tried: openrouter, nous, local/custom, api-key). Compression, summarization, and memory flush will not work. Set OPENROUTER_API_KEY or configure a local model in config.yaml.
+2026-05-21 15:55:24,907 WARNING [20260521_155516_eccee8] agent.prompt_builder: Context file SOUL.md blocked: invisible unicode U+FEFF
+2026-05-21 15:56:16,530 ERROR [20260521_155516_eccee8] root: API call failed after 3 retries. HTTP 429: Provider returned error | provider=openrouter model=openrouter/owl-alpha msgs=8 tokens=~6,345
+2026-05-21 16:00:13,420 INFO hermes_cli.plugins: Plugin 'openai' registered image_gen provider: openai
+2026-05-21 16:00:13,421 INFO hermes_cli.plugins: Plugin 'openai-codex' registered image_gen provider: openai-codex
+2026-05-21 16:00:13,421 INFO hermes_cli.plugins: Plugin 'xai' registered image_gen provider: xai
+2026-05-21 16:00:13,607 INFO hermes_cli.plugins: Plugin discovery complete: 10 found, 7 enabled
+2026-05-21 16:00:14,360 INFO run_agent: Loaded environment variables from /home/vblinux/.hermes/profiles/dt_orchestrator/.env
+2026-05-21 16:00:14,970 INFO agent.credential_pool: credential pool: no available entries (all exhausted or empty)
+2026-05-21 16:00:14,972 INFO agent.credential_pool: credential pool: no available entries (all exhausted or empty)
+2026-05-21 16:00:14,972 WARNING agent.auxiliary_client: resolve_provider_client: openrouter requested but OpenRouter credential pool has no usable entries (credentials may be exhausted)
+2026-05-21 16:00:16,798 INFO agent.credential_pool: credential pool: no available entries (all exhausted or empty)
+2026-05-21 16:00:16,800 INFO agent.credential_pool: credential pool: no available entries (all exhausted or empty)
+2026-05-21 16:00:16,800 WARNING agent.auxiliary_client: resolve_provider_client: openrouter requested but OpenRouter credential pool has no usable entries (credentials may be exhausted)
+2026-05-21 16:00:16,804 INFO agent.credential_pool: credential pool: no available entries (all exhausted or empty)
+2026-05-21 16:00:16,805 INFO agent.credential_pool: credential pool: no available entries (all exhausted or empty)
+2026-05-21 16:00:16,806 WARNING agent.auxiliary_client: resolve_provider_client: openrouter requested but OpenRouter credential pool has no usable entries (credentials may be exhausted)
+2026-05-21 16:00:17,215 INFO agent.credential_pool: credential pool: no available entries (all exhausted or empty)
+2026-05-21 16:00:17,217 INFO agent.credential_pool: credential pool: no available entries (all exhausted or empty)
+2026-05-21 16:00:17,217 WARNING agent.auxiliary_client: resolve_provider_client: openrouter requested but OpenRouter credential pool has no usable entries (credentials may be exhausted)
+2026-05-21 16:00:17,222 INFO agent.credential_pool: credential pool: no available entries (all exhausted or empty)
+2026-05-21 16:00:17,224 INFO agent.credential_pool: credential pool: no available entries (all exhausted or empty)
+2026-05-21 16:00:17,224 WARNING agent.auxiliary_client: resolve_provider_client: openrouter requested but OpenRouter credential pool has no usable entries (credentials may be exhausted)
+2026-05-21 16:00:33,294 INFO agent.credential_pool: credential pool: no available entries (all exhausted or empty)
+2026-05-21 16:00:33,314 INFO agent.credential_pool: credential pool: no available entries (all exhausted or empty)
+2026-05-21 16:00:34,114 INFO agent.credential_pool: credential pool: no available entries (all exhausted or empty)
+2026-05-21 16:00:34,116 INFO agent.credential_pool: credential pool: no available entries (all exhausted or empty)
+2026-05-21 16:00:34,116 WARNING agent.auxiliary_client: resolve_provider_client: openrouter requested but OpenRouter credential pool has no usable entries (credentials may be exhausted)
+2026-05-21 16:00:34,117 INFO agent.credential_pool: credential pool: no available entries (all exhausted or empty)
+2026-05-21 16:00:34,259 WARNING agent.auxiliary_client: Auxiliary auto-detect: no provider available (tried: openrouter, nous, local/custom, api-key). Compression, summarization, and memory flush will not work. Set OPENROUTER_API_KEY or configure a local model in config.yaml.
+2026-05-21 16:00:34,293 WARNING [20260521_160014_376860] agent.prompt_builder: Context file SOUL.md blocked: invisible unicode U+FEFF
+2026-05-21 16:01:04,140 INFO [20260521_160014_376860] agent.credential_pool: credential pool: no available entries (all exhausted or empty)
+2026-05-21 16:01:04,142 INFO [20260521_160014_376860] agent.credential_pool: credential pool: no available entries (all exhausted or empty)
+2026-05-21 16:01:04,142 WARNING [20260521_160014_376860] agent.auxiliary_client: resolve_provider_client: openrouter requested but OpenRouter credential pool has no usable entries (credentials may be exhausted)
+2026-05-21 16:01:04,144 INFO [20260521_160014_376860] agent.credential_pool: credential pool: no available entries (all exhausted or empty)
+2026-05-21 16:01:04,270 WARNING [20260521_160014_376860] agent.auxiliary_client: Auxiliary auto-detect: no provider available (tried: openrouter, nous, local/custom, api-key). Compression, summarization, and memory flush will not work. Set OPENROUTER_API_KEY or configure a local model in config.yaml.
+2026-05-21 16:01:43,945 INFO [20260521_160014_376860] agent.credential_pool: credential pool: no available entries (all exhausted or empty)
+2026-05-21 16:01:43,947 INFO [20260521_160014_376860] agent.credential_pool: credential pool: no available entries (all exhausted or empty)
+2026-05-21 16:01:43,947 WARNING [20260521_160014_376860] agent.auxiliary_client: resolve_provider_client: openrouter requested but OpenRouter credential pool has no usable entries (credentials may be exhausted)
+2026-05-21 16:01:43,948 INFO [20260521_160014_376860] agent.credential_pool: credential pool: no available entries (all exhausted or empty)
+2026-05-21 16:01:44,082 WARNING [20260521_160014_376860] agent.auxiliary_client: Auxiliary auto-detect: no provider available (tried: openrouter, nous, local/custom, api-key). Compression, summarization, and memory flush will not work. Set OPENROUTER_API_KEY or configure a local model in config.yaml.
+2026-05-21 16:02:44,684 INFO [20260521_160014_376860] agent.credential_pool: credential pool: no available entries (all exhausted or empty)
+2026-05-21 16:02:44,685 INFO [20260521_160014_376860] agent.credential_pool: credential pool: no available entries (all exhausted or empty)
+2026-05-21 16:02:44,685 WARNING [20260521_160014_376860] agent.auxiliary_client: resolve_provider_client: openrouter requested but OpenRouter credential pool has no usable entries (credentials may be exhausted)
+2026-05-21 16:02:44,687 INFO [20260521_160014_376860] agent.credential_pool: credential pool: no available entries (all exhausted or empty)
+2026-05-21 16:02:44,813 WARNING [20260521_160014_376860] agent.auxiliary_client: Auxiliary auto-detect: no provider available (tried: openrouter, nous, local/custom, api-key). Compression, summarization, and memory flush will not work. Set OPENROUTER_API_KEY or configure a local model in config.yaml.
+2026-05-21 16:11:39,894 INFO agent.credential_pool: credential pool: no available entries (all exhausted or empty)
+2026-05-21 16:11:39,902 INFO agent.credential_pool: credential pool: no available entries (all exhausted or empty)
+2026-05-21 16:11:39,902 WARNING agent.auxiliary_client: resolve_provider_client: openrouter requested but OpenRouter credential pool has no usable entries (credentials may be exhausted)
+2026-05-21 16:11:39,906 INFO agent.credential_pool: credential pool: no available entries (all exhausted or empty)
+2026-05-21 16:11:40,182 WARNING agent.auxiliary_client: Auxiliary auto-detect: no provider available (tried: openrouter, nous, local/custom, api-key). Compression, summarization, and memory flush will not work. Set OPENROUTER_API_KEY or configure a local model in config.yaml.
+2026-05-21 16:11:40,184 INFO agent.auxiliary_client: Auxiliary title_generation: provider auto unavailable, trying auto-detection chain
+2026-05-21 16:11:40,188 INFO agent.credential_pool: credential pool: no available entries (all exhausted or empty)
+2026-05-21 16:11:40,193 INFO agent.credential_pool: credential pool: no available entries (all exhausted or empty)
+2026-05-21 16:11:40,194 WARNING agent.auxiliary_client: resolve_provider_client: openrouter requested but OpenRouter credential pool has no usable entries (credentials may be exhausted)
+2026-05-21 16:11:40,199 INFO agent.credential_pool: credential pool: no available entries (all exhausted or empty)
+2026-05-21 16:11:40,588 WARNING agent.auxiliary_client: Auxiliary auto-detect: no provider available (tried: openrouter, nous, local/custom, api-key). Compression, summarization, and memory flush will not work. Set OPENROUTER_API_KEY or configure a local model in config.yaml.
+2026-05-21 16:11:40,589 WARNING agent.title_generator: Title generation failed: No LLM provider configured for task=title_generation provider=auto. Run: hermes setup
+2026-05-21 16:25:10,414 INFO hermes_cli.plugins: Plugin 'openai' registered image_gen provider: openai
+2026-05-21 16:25:10,415 INFO hermes_cli.plugins: Plugin 'openai-codex' registered image_gen provider: openai-codex
+2026-05-21 16:25:10,415 INFO hermes_cli.plugins: Plugin 'xai' registered image_gen provider: xai
+2026-05-21 16:25:10,632 INFO hermes_cli.plugins: Plugin discovery complete: 10 found, 7 enabled
+2026-05-21 16:25:11,415 INFO run_agent: Loaded environment variables from /home/vblinux/.hermes/profiles/dt_orchestrator/.env
+2026-05-21 16:25:12,037 INFO agent.credential_pool: credential pool: no available entries (all exhausted or empty)
+2026-05-21 16:25:12,039 INFO agent.credential_pool: credential pool: no available entries (all exhausted or empty)
+2026-05-21 16:25:12,039 WARNING agent.auxiliary_client: resolve_provider_client: openrouter requested but OpenRouter credential pool has no usable entries (credentials may be exhausted)
+2026-05-21 16:25:13,888 INFO agent.credential_pool: credential pool: no available entries (all exhausted or empty)
+2026-05-21 16:25:13,890 INFO agent.credential_pool: credential pool: no available entries (all exhausted or empty)
+2026-05-21 16:25:13,890 WARNING agent.auxiliary_client: resolve_provider_client: openrouter requested but OpenRouter credential pool has no usable entries (credentials may be exhausted)
+2026-05-21 16:25:13,895 INFO agent.credential_pool: credential pool: no available entries (all exhausted or empty)
+2026-05-21 16:25:13,896 INFO agent.credential_pool: credential pool: no available entries (all exhausted or empty)
+2026-05-21 16:25:13,897 WARNING agent.auxiliary_client: resolve_provider_client: openrouter requested but OpenRouter credential pool has no usable entries (credentials may be exhausted)
+2026-05-21 16:25:14,313 INFO agent.credential_pool: credential pool: no available entries (all exhausted or empty)
+2026-05-21 16:25:14,315 INFO agent.credential_pool: credential pool: no available entries (all exhausted or empty)
+2026-05-21 16:25:14,316 WARNING agent.auxiliary_client: resolve_provider_client: openrouter requested but OpenRouter credential pool has no usable entries (credentials may be exhausted)
+2026-05-21 16:25:14,320 INFO agent.credential_pool: credential pool: no available entries (all exhausted or empty)
+2026-05-21 16:25:14,321 INFO agent.credential_pool: credential pool: no available entries (all exhausted or empty)
+2026-05-21 16:25:14,322 WARNING agent.auxiliary_client: resolve_provider_client: openrouter requested but OpenRouter credential pool has no usable entries (credentials may be exhausted)
+2026-05-21 16:25:40,401 INFO agent.credential_pool: credential pool: no available entries (all exhausted or empty)
+2026-05-21 16:25:40,410 INFO agent.credential_pool: credential pool: no available entries (all exhausted or empty)
+2026-05-21 16:25:41,011 INFO agent.credential_pool: credential pool: no available entries (all exhausted or empty)
+2026-05-21 16:25:41,013 INFO agent.credential_pool: credential pool: no available entries (all exhausted or empty)
+2026-05-21 16:25:41,013 WARNING agent.auxiliary_client: resolve_provider_client: openrouter requested but OpenRouter credential pool has no usable entries (credentials may be exhausted)
+2026-05-21 16:25:41,014 INFO agent.credential_pool: credential pool: no available entries (all exhausted or empty)
+2026-05-21 16:25:41,130 WARNING agent.auxiliary_client: Auxiliary auto-detect: no provider available (tried: openrouter, nous, local/custom, api-key). Compression, summarization, and memory flush will not work. Set OPENROUTER_API_KEY or configure a local model in config.yaml.
+2026-05-21 16:25:41,198 WARNING [20260521_162512_b43577] agent.prompt_builder: Context file SOUL.md blocked: invisible unicode U+FEFF
+2026-05-21 16:27:44,255 INFO agent.credential_pool: credential pool: no available entries (all exhausted or empty)
+2026-05-21 16:28:25,233 INFO [20260521_162512_b43577] agent.credential_pool: credential pool: no available entries (all exhausted or empty)
+2026-05-21 16:28:25,235 INFO [20260521_162512_b43577] agent.credential_pool: credential pool: no available entries (all exhausted or empty)
+2026-05-21 16:28:25,235 WARNING [20260521_162512_b43577] agent.auxiliary_client: resolve_provider_client: openrouter requested but OpenRouter credential pool has no usable entries (credentials may be exhausted)
+2026-05-21 16:28:25,237 INFO [20260521_162512_b43577] agent.credential_pool: credential pool: no available entries (all exhausted or empty)
+2026-05-21 16:28:25,374 WARNING [20260521_162512_b43577] agent.auxiliary_client: Auxiliary auto-detect: no provider available (tried: openrouter, nous, local/custom, api-key). Compression, summarization, and memory flush will not work. Set OPENROUTER_API_KEY or configure a local model in config.yaml.
+2026-05-21 16:29:42,339 ERROR [20260521_162825_6d3a11] root: [subagent-0] API call failed after 3 retries. Provider returned error | provider=openrouter model=openrouter/owl-alpha msgs=5 tokens=~1,131
+2026-05-21 16:31:32,667 INFO [20260521_162512_b43577] agent.credential_pool: credential pool: no available entries (all exhausted or empty)
+2026-05-21 16:31:32,669 INFO [20260521_162512_b43577] agent.credential_pool: credential pool: no available entries (all exhausted or empty)
+2026-05-21 16:31:32,670 WARNING [20260521_162512_b43577] agent.auxiliary_client: resolve_provider_client: openrouter requested but OpenRouter credential pool has no usable entries (credentials may be exhausted)
+2026-05-21 16:31:32,671 INFO [20260521_162512_b43577] agent.credential_pool: credential pool: no available entries (all exhausted or empty)
+2026-05-21 16:31:32,833 WARNING [20260521_162512_b43577] agent.auxiliary_client: Auxiliary auto-detect: no provider available (tried: openrouter, nous, local/custom, api-key). Compression, summarization, and memory flush will not work. Set OPENROUTER_API_KEY or configure a local model in config.yaml.
+2026-05-21 16:34:25,541 INFO [20260521_162512_b43577] agent.credential_pool: credential pool: no available entries (all exhausted or empty)
+2026-05-21 16:34:25,543 INFO [20260521_162512_b43577] agent.credential_pool: credential pool: no available entries (all exhausted or empty)
+2026-05-21 16:34:25,543 WARNING [20260521_162512_b43577] agent.auxiliary_client: resolve_provider_client: openrouter requested but OpenRouter credential pool has no usable entries (credentials may be exhausted)
+2026-05-21 16:34:25,545 INFO [20260521_162512_b43577] agent.credential_pool: credential pool: no available entries (all exhausted or empty)
+2026-05-21 16:34:25,746 WARNING [20260521_162512_b43577] agent.auxiliary_client: Auxiliary auto-detect: no provider available (tried: openrouter, nous, local/custom, api-key). Compression, summarization, and memory flush will not work. Set OPENROUTER_API_KEY or configure a local model in config.yaml.
+2026-05-21 16:36:13,822 INFO [20260521_162512_b43577] agent.credential_pool: credential pool: no available entries (all exhausted or empty)
+2026-05-21 16:36:13,827 INFO [20260521_162512_b43577] agent.credential_pool: credential pool: no available entries (all exhausted or empty)
+2026-05-21 16:36:13,827 WARNING [20260521_162512_b43577] agent.auxiliary_client: resolve_provider_client: openrouter requested but OpenRouter credential pool has no usable entries (credentials may be exhausted)
+2026-05-21 16:36:13,832 INFO [20260521_162512_b43577] agent.credential_pool: credential pool: no available entries (all exhausted or empty)
+2026-05-21 16:36:14,280 WARNING [20260521_162512_b43577] agent.auxiliary_client: Auxiliary auto-detect: no provider available (tried: openrouter, nous, local/custom, api-key). Compression, summarization, and memory flush will not work. Set OPENROUTER_API_KEY or configure a local model in config.yaml.
+2026-05-21 16:44:03,386 INFO agent.credential_pool: credential pool: no available entries (all exhausted or empty)
+2026-05-21 16:44:03,387 INFO agent.credential_pool: credential pool: no available entries (all exhausted or empty)
+2026-05-21 16:44:03,387 WARNING agent.auxiliary_client: resolve_provider_client: openrouter requested but OpenRouter credential pool has no usable entries (credentials may be exhausted)
+2026-05-21 16:44:03,389 INFO agent.credential_pool: credential pool: no available entries (all exhausted or empty)
+2026-05-21 16:44:03,578 INFO agent.credential_pool: credential pool: no available entries (all exhausted or empty)
+2026-05-21 16:44:03,581 INFO agent.credential_pool: credential pool: no available entries (all exhausted or empty)
+2026-05-21 16:44:03,582 WARNING agent.auxiliary_client: resolve_provider_client: openrouter requested but OpenRouter credential pool has no usable entries (credentials may be exhausted)
+2026-05-21 16:44:03,611 INFO agent.credential_pool: credential pool: no available entries (all exhausted or empty)
+2026-05-21 16:44:03,642 WARNING agent.auxiliary_client: Auxiliary auto-detect: no provider available (tried: openrouter, nous, local/custom, api-key). Compression, summarization, and memory flush will not work. Set OPENROUTER_API_KEY or configure a local model in config.yaml.
+2026-05-21 16:44:03,644 WARNING [20260521_164403_ed4385] agent.prompt_builder: Context file SOUL.md blocked: invisible unicode U+FEFF
+2026-05-21 16:44:03,857 WARNING agent.auxiliary_client: Auxiliary auto-detect: no provider available (tried: openrouter, nous, local/custom, api-key). Compression, summarization, and memory flush will not work. Set OPENROUTER_API_KEY or configure a local model in config.yaml.
+2026-05-21 16:44:03,858 INFO agent.auxiliary_client: Auxiliary title_generation: provider auto unavailable, trying auto-detection chain
+2026-05-21 16:44:03,859 INFO agent.credential_pool: credential pool: no available entries (all exhausted or empty)
+2026-05-21 16:44:03,861 INFO agent.credential_pool: credential pool: no available entries (all exhausted or empty)
+2026-05-21 16:44:03,861 WARNING agent.auxiliary_client: resolve_provider_client: openrouter requested but OpenRouter credential pool has no usable entries (credentials may be exhausted)
+2026-05-21 16:44:03,864 INFO agent.credential_pool: credential pool: no available entries (all exhausted or empty)
+2026-05-21 16:44:04,001 WARNING agent.auxiliary_client: Auxiliary auto-detect: no provider available (tried: openrouter, nous, local/custom, api-key). Compression, summarization, and memory flush will not work. Set OPENROUTER_API_KEY or configure a local model in config.yaml.
+2026-05-21 16:44:04,002 WARNING agent.title_generator: Title generation failed: No LLM provider configured for task=title_generation provider=auto. Run: hermes setup
+2026-05-21 16:52:21,415 INFO hermes_cli.plugins: Plugin 'openai' registered image_gen provider: openai
+2026-05-21 16:52:21,415 INFO hermes_cli.plugins: Plugin 'openai-codex' registered image_gen provider: openai-codex
+2026-05-21 16:52:21,416 INFO hermes_cli.plugins: Plugin 'xai' registered image_gen provider: xai
+2026-05-21 16:52:21,608 INFO hermes_cli.plugins: Plugin discovery complete: 10 found, 7 enabled
+2026-05-21 16:52:22,332 INFO run_agent: Loaded environment variables from /home/vblinux/.hermes/profiles/dt_orchestrator/.env
+2026-05-21 16:52:22,999 INFO agent.auxiliary_client: Vision auto-detect: using main provider openrouter (nvidia/nemotron-3-super-120b-a12b:free)
+2026-05-21 16:52:26,670 INFO agent.auxiliary_client: Vision auto-detect: using main provider openrouter (nvidia/nemotron-3-super-120b-a12b:free)
+2026-05-21 16:52:26,680 INFO agent.auxiliary_client: Vision auto-detect: using main provider openrouter (nvidia/nemotron-3-super-120b-a12b:free)
+2026-05-21 16:52:27,522 INFO agent.auxiliary_client: Vision auto-detect: using main provider openrouter (nvidia/nemotron-3-super-120b-a12b:free)
+2026-05-21 16:52:27,542 INFO agent.auxiliary_client: Vision auto-detect: using main provider openrouter (nvidia/nemotron-3-super-120b-a12b:free)
+2026-05-21 16:52:44,773 INFO agent.auxiliary_client: Auxiliary auto-detect: using main provider openrouter (nvidia/nemotron-3-super-120b-a12b:free)
+2026-05-21 16:52:44,795 WARNING [20260521_165222_f3516f] agent.prompt_builder: Context file SOUL.md blocked: invisible unicode U+FEFF
+2026-05-21 16:53:42,772 INFO [20260521_165222_f3516f] agent.auxiliary_client: Auxiliary auto-detect: using main provider openrouter (nvidia/nemotron-3-super-120b-a12b:free)
+2026-05-21 16:57:41,957 INFO [20260521_165222_f3516f] agent.auxiliary_client: Auxiliary auto-detect: using main provider openrouter (nvidia/nemotron-3-super-120b-a12b:free)
+2026-05-21 17:02:40,364 INFO [20260521_165222_f3516f] agent.auxiliary_client: Auxiliary auto-detect: using main provider openrouter (nvidia/nemotron-3-super-120b-a12b:free)
+2026-05-21 17:09:43,829 INFO agent.auxiliary_client: Auxiliary auto-detect: using main provider openrouter (nvidia/nemotron-3-super-120b-a12b:free)
+2026-05-21 17:09:43,830 INFO agent.auxiliary_client: Auxiliary title_generation: using auto (nvidia/nemotron-3-super-120b-a12b:free)
+2026-05-21 17:12:09,055 INFO [20260521_165222_f3516f] agent.auxiliary_client: Auxiliary auto-detect: using main provider openrouter (nvidia/nemotron-3-super-120b-a12b:free)
+2026-05-21 17:14:43,627 INFO [20260521_165222_f3516f] agent.auxiliary_client: Auxiliary auto-detect: using main provider openrouter (nvidia/nemotron-3-super-120b-a12b:free)
+2026-05-21 17:18:12,502 INFO [20260521_165222_f3516f] agent.auxiliary_client: Auxiliary auto-detect: using main provider openrouter (nvidia/nemotron-3-super-120b-a12b:free)

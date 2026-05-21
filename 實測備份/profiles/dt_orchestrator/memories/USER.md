@@ -1,0 +1,1 @@
+User expects delegation (delegate_task) to be used proactively for multi-source data analysis tasks. When a task involves fetching from multiple independent data sources, the agent should always split work into sub-agents rather than handling everything sequentially itself. This is a firm workflow requirement, not a suggestion.

@@ -1,0 +1,3 @@
+TWSE MI_INDEX API 已從舊版 data9 結構改為 tables 陣列結構（2025年起）。個股收盤行情在 tables[8]，不是 data9。API 回應含 HTML 標籤和控制字元，需先清理才能解析 JSON。修正版腳本在 scripts/fetch_twse_daily.py。詳細 API 結構見 twse-free-daily/references/twse-api-changes.md。
+§
+台股盤後分析必須使用 delegate_task 分工：子 agent A 執行 fetch_twse_daily.py 抓取原始資料，子 agent B 執行 normalize_market_data.py + rank_intraday_candidates.py 進行資料處理，主 agent 負責彙總分析與撰寫報告。不得由主 agent 自行抓取資料。Phase 3 dt_writer 子 agent 容易超時（600s），主 agent 應降級用 execute_code + terminal 自行讀取資料撰寫報告。

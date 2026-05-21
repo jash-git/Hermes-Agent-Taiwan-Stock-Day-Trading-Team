@@ -1,0 +1,72 @@
+2026-05-20 15:08:11,349 WARNING [20260520_150733_37b0d6] agent.prompt_builder: Context file SOUL.md blocked: invisible unicode U+FEFF
+2026-05-20 15:28:44,443 WARNING [20260520_152820_ab3880] agent.prompt_builder: Context file SOUL.md blocked: invisible unicode U+FEFF
+2026-05-20 15:47:43,255 WARNING [20260520_154743_71c748] agent.prompt_builder: Context file SOUL.md blocked: invisible unicode U+FEFF
+2026-05-20 16:06:43,373 ERROR [20260520_152820_ab3880] tools.checkpoint_manager: Git command skipped: git add -A (working directory not found: /home/vblinux/.hermes/profiles/dt_orchestrator/reports)
+2026-05-20 16:13:46,651 WARNING [20260520_161346_ab2fd7] agent.prompt_builder: Context file SOUL.md blocked: invisible unicode U+FEFF
+2026-05-20 16:49:03,303 WARNING [20260520_164902_d507ab] agent.prompt_builder: Context file SOUL.md blocked: invisible unicode U+FEFF
+2026-05-21 09:02:57,585 WARNING [20260521_090121_ac4f97] agent.prompt_builder: Context file SOUL.md blocked: invisible unicode U+FEFF
+2026-05-21 09:09:45,546 ERROR [20260521_090121_ac4f97] tools.checkpoint_manager: Git command skipped: git add -A (working directory not found: /home/vblinux/.hermes/profiles/dt_orchestrator/skills/twse-free-daily/reports)
+2026-05-21 09:18:10,565 WARNING [20260521_091745_5e05e4] agent.prompt_builder: Context file SOUL.md blocked: invisible unicode U+FEFF
+2026-05-21 09:40:04,910 WARNING [20260521_094004_65f08c] agent.prompt_builder: Context file SOUL.md blocked: invisible unicode U+FEFF
+2026-05-21 10:19:09,357 WARNING [20260521_101850_6ac2f9] agent.prompt_builder: Context file SOUL.md blocked: invisible unicode U+FEFF
+2026-05-21 10:30:29,375 ERROR [20260521_102408_8b39da] root: [subagent-0] API call failed after 3 retries. Provider returned error | provider=openrouter model=openrouter/owl-alpha msgs=5 tokens=~1,274
+2026-05-21 10:42:51,012 WARNING [20260521_104250_52973c] agent.prompt_builder: Context file SOUL.md blocked: invisible unicode U+FEFF
+2026-05-21 11:12:23,513 WARNING [20260521_111202_573d86] agent.prompt_builder: Context file SOUL.md blocked: invisible unicode U+FEFF
+2026-05-21 11:46:34,482 WARNING [20260521_114617_4d6ed9] agent.prompt_builder: Context file SOUL.md blocked: invisible unicode U+FEFF
+2026-05-21 15:47:50,640 WARNING [20260521_154725_1f5da7] agent.prompt_builder: Context file SOUL.md blocked: invisible unicode U+FEFF
+2026-05-21 15:48:04,100 ERROR [20260521_154725_1f5da7] root: API call failed after 3 retries. HTTP 429: Provider returned error | provider=openrouter model=openrouter/owl-alpha msgs=2 tokens=~3,762
+2026-05-21 15:49:12,653 ERROR [20260521_154725_1f5da7] root: API call failed after 3 retries. HTTP 429: Provider returned error | provider=openrouter model=openrouter/owl-alpha msgs=4 tokens=~5,799
+2026-05-21 15:55:16,609 WARNING agent.auxiliary_client: resolve_provider_client: openrouter requested but OpenRouter credential pool has no usable entries (credentials may be exhausted)
+2026-05-21 15:55:18,362 WARNING agent.auxiliary_client: resolve_provider_client: openrouter requested but OpenRouter credential pool has no usable entries (credentials may be exhausted)
+2026-05-21 15:55:18,369 WARNING agent.auxiliary_client: resolve_provider_client: openrouter requested but OpenRouter credential pool has no usable entries (credentials may be exhausted)
+2026-05-21 15:55:18,792 WARNING agent.auxiliary_client: resolve_provider_client: openrouter requested but OpenRouter credential pool has no usable entries (credentials may be exhausted)
+2026-05-21 15:55:18,799 WARNING agent.auxiliary_client: resolve_provider_client: openrouter requested but OpenRouter credential pool has no usable entries (credentials may be exhausted)
+2026-05-21 15:55:24,742 WARNING agent.auxiliary_client: resolve_provider_client: openrouter requested but OpenRouter credential pool has no usable entries (credentials may be exhausted)
+2026-05-21 15:55:24,885 WARNING agent.auxiliary_client: Auxiliary auto-detect: no provider available (tried: openrouter, nous, local/custom, api-key). Compression, summarization, and memory flush will not work. Set OPENROUTER_API_KEY or configure a local model in config.yaml.
+2026-05-21 15:55:24,907 WARNING [20260521_155516_eccee8] agent.prompt_builder: Context file SOUL.md blocked: invisible unicode U+FEFF
+2026-05-21 15:56:16,530 ERROR [20260521_155516_eccee8] root: API call failed after 3 retries. HTTP 429: Provider returned error | provider=openrouter model=openrouter/owl-alpha msgs=8 tokens=~6,345
+2026-05-21 16:00:14,972 WARNING agent.auxiliary_client: resolve_provider_client: openrouter requested but OpenRouter credential pool has no usable entries (credentials may be exhausted)
+2026-05-21 16:00:16,800 WARNING agent.auxiliary_client: resolve_provider_client: openrouter requested but OpenRouter credential pool has no usable entries (credentials may be exhausted)
+2026-05-21 16:00:16,806 WARNING agent.auxiliary_client: resolve_provider_client: openrouter requested but OpenRouter credential pool has no usable entries (credentials may be exhausted)
+2026-05-21 16:00:17,217 WARNING agent.auxiliary_client: resolve_provider_client: openrouter requested but OpenRouter credential pool has no usable entries (credentials may be exhausted)
+2026-05-21 16:00:17,224 WARNING agent.auxiliary_client: resolve_provider_client: openrouter requested but OpenRouter credential pool has no usable entries (credentials may be exhausted)
+2026-05-21 16:00:34,116 WARNING agent.auxiliary_client: resolve_provider_client: openrouter requested but OpenRouter credential pool has no usable entries (credentials may be exhausted)
+2026-05-21 16:00:34,259 WARNING agent.auxiliary_client: Auxiliary auto-detect: no provider available (tried: openrouter, nous, local/custom, api-key). Compression, summarization, and memory flush will not work. Set OPENROUTER_API_KEY or configure a local model in config.yaml.
+2026-05-21 16:00:34,293 WARNING [20260521_160014_376860] agent.prompt_builder: Context file SOUL.md blocked: invisible unicode U+FEFF
+2026-05-21 16:01:04,142 WARNING [20260521_160014_376860] agent.auxiliary_client: resolve_provider_client: openrouter requested but OpenRouter credential pool has no usable entries (credentials may be exhausted)
+2026-05-21 16:01:04,270 WARNING [20260521_160014_376860] agent.auxiliary_client: Auxiliary auto-detect: no provider available (tried: openrouter, nous, local/custom, api-key). Compression, summarization, and memory flush will not work. Set OPENROUTER_API_KEY or configure a local model in config.yaml.
+2026-05-21 16:01:43,947 WARNING [20260521_160014_376860] agent.auxiliary_client: resolve_provider_client: openrouter requested but OpenRouter credential pool has no usable entries (credentials may be exhausted)
+2026-05-21 16:01:44,082 WARNING [20260521_160014_376860] agent.auxiliary_client: Auxiliary auto-detect: no provider available (tried: openrouter, nous, local/custom, api-key). Compression, summarization, and memory flush will not work. Set OPENROUTER_API_KEY or configure a local model in config.yaml.
+2026-05-21 16:02:44,685 WARNING [20260521_160014_376860] agent.auxiliary_client: resolve_provider_client: openrouter requested but OpenRouter credential pool has no usable entries (credentials may be exhausted)
+2026-05-21 16:02:44,813 WARNING [20260521_160014_376860] agent.auxiliary_client: Auxiliary auto-detect: no provider available (tried: openrouter, nous, local/custom, api-key). Compression, summarization, and memory flush will not work. Set OPENROUTER_API_KEY or configure a local model in config.yaml.
+2026-05-21 16:11:39,902 WARNING agent.auxiliary_client: resolve_provider_client: openrouter requested but OpenRouter credential pool has no usable entries (credentials may be exhausted)
+2026-05-21 16:11:40,182 WARNING agent.auxiliary_client: Auxiliary auto-detect: no provider available (tried: openrouter, nous, local/custom, api-key). Compression, summarization, and memory flush will not work. Set OPENROUTER_API_KEY or configure a local model in config.yaml.
+2026-05-21 16:11:40,194 WARNING agent.auxiliary_client: resolve_provider_client: openrouter requested but OpenRouter credential pool has no usable entries (credentials may be exhausted)
+2026-05-21 16:11:40,588 WARNING agent.auxiliary_client: Auxiliary auto-detect: no provider available (tried: openrouter, nous, local/custom, api-key). Compression, summarization, and memory flush will not work. Set OPENROUTER_API_KEY or configure a local model in config.yaml.
+2026-05-21 16:11:40,589 WARNING agent.title_generator: Title generation failed: No LLM provider configured for task=title_generation provider=auto. Run: hermes setup
+2026-05-21 16:25:12,039 WARNING agent.auxiliary_client: resolve_provider_client: openrouter requested but OpenRouter credential pool has no usable entries (credentials may be exhausted)
+2026-05-21 16:25:13,890 WARNING agent.auxiliary_client: resolve_provider_client: openrouter requested but OpenRouter credential pool has no usable entries (credentials may be exhausted)
+2026-05-21 16:25:13,897 WARNING agent.auxiliary_client: resolve_provider_client: openrouter requested but OpenRouter credential pool has no usable entries (credentials may be exhausted)
+2026-05-21 16:25:14,316 WARNING agent.auxiliary_client: resolve_provider_client: openrouter requested but OpenRouter credential pool has no usable entries (credentials may be exhausted)
+2026-05-21 16:25:14,322 WARNING agent.auxiliary_client: resolve_provider_client: openrouter requested but OpenRouter credential pool has no usable entries (credentials may be exhausted)
+2026-05-21 16:25:41,013 WARNING agent.auxiliary_client: resolve_provider_client: openrouter requested but OpenRouter credential pool has no usable entries (credentials may be exhausted)
+2026-05-21 16:25:41,130 WARNING agent.auxiliary_client: Auxiliary auto-detect: no provider available (tried: openrouter, nous, local/custom, api-key). Compression, summarization, and memory flush will not work. Set OPENROUTER_API_KEY or configure a local model in config.yaml.
+2026-05-21 16:25:41,198 WARNING [20260521_162512_b43577] agent.prompt_builder: Context file SOUL.md blocked: invisible unicode U+FEFF
+2026-05-21 16:28:25,235 WARNING [20260521_162512_b43577] agent.auxiliary_client: resolve_provider_client: openrouter requested but OpenRouter credential pool has no usable entries (credentials may be exhausted)
+2026-05-21 16:28:25,374 WARNING [20260521_162512_b43577] agent.auxiliary_client: Auxiliary auto-detect: no provider available (tried: openrouter, nous, local/custom, api-key). Compression, summarization, and memory flush will not work. Set OPENROUTER_API_KEY or configure a local model in config.yaml.
+2026-05-21 16:29:42,339 ERROR [20260521_162825_6d3a11] root: [subagent-0] API call failed after 3 retries. Provider returned error | provider=openrouter model=openrouter/owl-alpha msgs=5 tokens=~1,131
+2026-05-21 16:31:32,670 WARNING [20260521_162512_b43577] agent.auxiliary_client: resolve_provider_client: openrouter requested but OpenRouter credential pool has no usable entries (credentials may be exhausted)
+2026-05-21 16:31:32,833 WARNING [20260521_162512_b43577] agent.auxiliary_client: Auxiliary auto-detect: no provider available (tried: openrouter, nous, local/custom, api-key). Compression, summarization, and memory flush will not work. Set OPENROUTER_API_KEY or configure a local model in config.yaml.
+2026-05-21 16:34:25,543 WARNING [20260521_162512_b43577] agent.auxiliary_client: resolve_provider_client: openrouter requested but OpenRouter credential pool has no usable entries (credentials may be exhausted)
+2026-05-21 16:34:25,746 WARNING [20260521_162512_b43577] agent.auxiliary_client: Auxiliary auto-detect: no provider available (tried: openrouter, nous, local/custom, api-key). Compression, summarization, and memory flush will not work. Set OPENROUTER_API_KEY or configure a local model in config.yaml.
+2026-05-21 16:36:13,827 WARNING [20260521_162512_b43577] agent.auxiliary_client: resolve_provider_client: openrouter requested but OpenRouter credential pool has no usable entries (credentials may be exhausted)
+2026-05-21 16:36:14,280 WARNING [20260521_162512_b43577] agent.auxiliary_client: Auxiliary auto-detect: no provider available (tried: openrouter, nous, local/custom, api-key). Compression, summarization, and memory flush will not work. Set OPENROUTER_API_KEY or configure a local model in config.yaml.
+2026-05-21 16:44:03,387 WARNING agent.auxiliary_client: resolve_provider_client: openrouter requested but OpenRouter credential pool has no usable entries (credentials may be exhausted)
+2026-05-21 16:44:03,582 WARNING agent.auxiliary_client: resolve_provider_client: openrouter requested but OpenRouter credential pool has no usable entries (credentials may be exhausted)
+2026-05-21 16:44:03,642 WARNING agent.auxiliary_client: Auxiliary auto-detect: no provider available (tried: openrouter, nous, local/custom, api-key). Compression, summarization, and memory flush will not work. Set OPENROUTER_API_KEY or configure a local model in config.yaml.
+2026-05-21 16:44:03,644 WARNING [20260521_164403_ed4385] agent.prompt_builder: Context file SOUL.md blocked: invisible unicode U+FEFF
+2026-05-21 16:44:03,857 WARNING agent.auxiliary_client: Auxiliary auto-detect: no provider available (tried: openrouter, nous, local/custom, api-key). Compression, summarization, and memory flush will not work. Set OPENROUTER_API_KEY or configure a local model in config.yaml.
+2026-05-21 16:44:03,861 WARNING agent.auxiliary_client: resolve_provider_client: openrouter requested but OpenRouter credential pool has no usable entries (credentials may be exhausted)
+2026-05-21 16:44:04,001 WARNING agent.auxiliary_client: Auxiliary auto-detect: no provider available (tried: openrouter, nous, local/custom, api-key). Compression, summarization, and memory flush will not work. Set OPENROUTER_API_KEY or configure a local model in config.yaml.
+2026-05-21 16:44:04,002 WARNING agent.title_generator: Title generation failed: No LLM provider configured for task=title_generation provider=auto. Run: hermes setup
+2026-05-21 16:52:44,795 WARNING [20260521_165222_f3516f] agent.prompt_builder: Context file SOUL.md blocked: invisible unicode U+FEFF
